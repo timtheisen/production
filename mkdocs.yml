@@ -9,6 +9,7 @@ extra_css:
 pages:
 - Home: 'index.md'
 - Weekly Minutes:
+  - '19 September 2017': 'WeeklyMinutes/19Sep2017.md'
   - '12 September 2017': 'WeeklyMinutes/12Sep2017.md'
   - '5 September 2017': 'WeeklyMinutes/05Sep2017.md'
   - '29 August 2017': 'WeeklyMinutes/29Aug2017.md'
