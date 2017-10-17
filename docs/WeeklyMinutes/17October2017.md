@@ -1,0 +1,10 @@
+We will be moving to Google Docs for Meeting Agendas. Please use the link below.
+
+[Google Docs Agenda](https://docs.google.com/document/d/1wJT99H_y00Zkj1fLKmTa--jXvARoM0B-djeRyJe8KUQ)
+
+Coordinates will remain the same.
+
+   * 4:00 PM Eastern (3:00 PM Central)
+   * Join from PC, Mac, Linux, iOS or Android: [Zoom VC Link](https://IU.zoom.us/j/865253152)
+   * (US Toll): +1 408-638-0968, PIN: 865-253-152# or +1 646-558-8656, PIN 865-253-152#
+   * [Operations Slack Channel](https://opensciencegrid.slack.com/messages/C5GAYBGA0/)
