@@ -1,6 +1,6 @@
 We will be moving to Google Docs for Meeting Agendas. Please use the link below.
 
-[Google Docs Agenda](6019WbdOowQvpUCr_Bu4PMZiX68MuWjNZ9cK08CjEcU)
+[Google Docs Agenda](https://docs.google.com/document/d/16019WbdOowQvpUCr_Bu4PMZiX68MuWjNZ9cK08CjEcU/edit#heading=h.uat3mlltrwpg)
 
 Coordinates will remain the same.
 
