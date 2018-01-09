@@ -10,6 +10,7 @@ extra_css:
 pages:
 - Home: 'index.md'
 - Weekly Minutes:
+  - '9 January 2018 Canceled': 'WeeklyMinutes/09January2018.md'
   - '2 January 2018 Canceled': 'WeeklyMinutes/Canceled.md'
   - '26 December 2017 Canceled': 'WeeklyMinutes/Canceled.md'
   - '19 December 2017': 'WeeklyMinutes/19December2017.md'
