@@ -7,6 +7,7 @@ theme:
 pages:
 - Home: 'index.md'
 - Weekly Minutes:
+  - '16 January 2018': 'WeeklyMinutes/16January2018.md'
   - '9 January 2018': 'WeeklyMinutes/09January2018.md'
   - '2 January 2018 Canceled': 'WeeklyMinutes/Canceled.md'
   - '26 December 2017 Canceled': 'WeeklyMinutes/Canceled.md'
