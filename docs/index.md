@@ -18,13 +18,15 @@ For a current view of OSG Production see the [Monitoring Display](http://display
 
 # Weekly Production Meetings
 
+Current Minutes/Agenda: [Current Running Agenda](https://docs.google.com/document/d/1hNhpMsLfCipG7EAX2uRKnWFNfQ-vELLS7Qc9LbD34Ow/edit)
+
 4:00 PM Eastern (3:00 PM Central)
 
 Join from PC, Mac, Linux, iOS or Android: [https://IU.zoom.us/j/865253152](https://IU.zoom.us/j/865253152)
 
 (US Toll): +1 408-638-0968 or +1 646-558-8656, PIN 865-253-152#
 
-# Current Meeting Minutes
+# Past Meeting Minutes
 
 Are available in the menu on the left. 
 
