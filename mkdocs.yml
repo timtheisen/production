@@ -7,6 +7,7 @@ theme:
 pages:
 - Home: 'index.md'
 - Weekly Minutes:
+  - '1 May 2018': 'WeeklyMinutes/01May2018.md'
   - '24 April 2018': 'WeeklyMinutes/24April2018.md'
   - '17 April 2018': 'WeeklyMinutes/17April2018.md'
   - '10 April 2018': 'WeeklyMinutes/10April2018.md'
