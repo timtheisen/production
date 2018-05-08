@@ -14,7 +14,7 @@ OSG Production is the culmination of many OSG efforts including testing, integra
    
 # Live OSG Production Statistics
 
-For a current view of OSG Production see the [Monitoring Display](http://display.grid.iu.edu/)
+For a current view of OSG Production see the [Monitoring Display](http://display.opensciencegrid.org/)
 
 # Weekly Production Meetings
 
@@ -29,8 +29,6 @@ Join from PC, Mac, Linux, iOS or Android: [https://IU.zoom.us/j/865253152](https
 # Past Meeting Minutes
 
 Are available in the menu on the left. 
-
-For Minutes Prior to 12-February-2017 Please Visit the [Archive](https://twiki.grid.iu.edu/bin/view/Production/WeeklyProductionMeetings)
 
 ## Meeting Template
 
