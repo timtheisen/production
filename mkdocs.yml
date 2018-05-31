@@ -16,7 +16,6 @@ pages:
 - Home: 'index.md'
 - Weekly Minutes:
   - '29 May 2018': 'WeeklyMinutes/29May2018.md'
-  - '22 May 2018': 'WeeklyMinutes/Canceled.md'
   - '15 May 2018': 'WeeklyMinutes/15May2018.md'
   - '8 May 2018': 'WeeklyMinutes/08May2018.md'
   - '1 May 2018': 'WeeklyMinutes/01May2018.md'
@@ -25,7 +24,6 @@ pages:
   - '10 April 2018': 'WeeklyMinutes/10April2018.md'
   - '3 April 2018': 'WeeklyMinutes/03April2018.md'
   - '27 March 2018': 'WeeklyMinutes/27March2018.md'
-  - '20 March 2018 Canceled': 'WeeklyMinutes/Canceled.md'
   - '13 March 2018': 'WeeklyMinutes/13March2018.md'
   - '6 March 2018': 'WeeklyMinutes/06March2018.md'
   - '27 February 2018': 'WeeklyMinutes/27February2018.md'
@@ -36,8 +34,6 @@ pages:
   - '23 January 2018': 'WeeklyMinutes/23January2018.md'
   - '16 January 2018': 'WeeklyMinutes/16January2018.md'
   - '9 January 2018': 'WeeklyMinutes/09January2018.md'
-  - '2 January 2018 Canceled': 'WeeklyMinutes/Canceled.md'
-  - '26 December 2017 Canceled': 'WeeklyMinutes/Canceled.md'
   - '19 December 2017': 'WeeklyMinutes/19December2017.md'
   - '12 December 2017': 'WeeklyMinutes/12December2017.md'
   - '5 December 2017': 'WeeklyMinutes/05December2017.md'
@@ -61,7 +57,6 @@ pages:
   - '25 July 2017': 'WeeklyMinutes/25July2017.md'
   - '18 July 2017': 'WeeklyMinutes/18July2017.md'
   - '11 July 2017': 'WeeklyMinutes/11July2017.md'
-  - '4 July 2017 Canceled': 'WeeklyMinutes/Canceled.md'
   - '27 June 2017': 'WeeklyMinutes/27June2017.md'
   - '20 June 2017': 'WeeklyMinutes/20June2017.md'
   - '13 June 2017': 'WeeklyMinutes/13June2017.md'
@@ -78,13 +73,10 @@ pages:
   - '28 March 2017': 'WeeklyMinutes/28March2017.md'
   - '21 March 2017': 'WeeklyMinutes/21March2017.md'
   - '14 March 2017': 'WeeklyMinutes/14March2017.md'
-  - '7 March 2017 Canceled': 'WeeklyMinutes/Canceled.md'
   - '28 Februray 2017': 'WeeklyMinutes/28Feb2017.md'
   - '21 February 2017': 'WeeklyMinutes/21Feb2017.md'
   - '14 February 2017': 'WeeklyMinutes/14Feb2017.md'
   - '7 February 2017': 'WeeklyMinutes/14Feb2017.md'
-- Weekly Template: 
-  - 'Template': 'WeeklyTemplate.md'
 
 markdown_extensions:
   - admonition
