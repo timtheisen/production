@@ -1,12 +1,10 @@
 site_name: OSG Production
 site_url: https://opensciencegrid.org/production/
 repo_url: https://github.com/opensciencegrid/production/
-theme: 
-  name: readthedocs
-
 google_analytics: ['UA-69012-29', 'opensciencegrid.github.io']
 theme:
   name: material
+  custom_dir: osgthedocs
   favicon: 'img/favicon.ico'
 
 extra_css:
