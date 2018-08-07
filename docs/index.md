@@ -28,6 +28,7 @@ Weekly Production Meetings
 
 
 ### Recent meeting minutes ###
+- [August 7, 2018](https://docs.google.com/document/d/1FbUFvA1SCaB_lVGhkHU78NF-LGbdtruX-2RF-PQp8xw/edit?usp=sharing)
 - [July 31, 2018](https://docs.google.com/document/d/16uU3Yz-mg6r3THfi3K1o70j-uYS_X7tLJIlLgUIBQHM/edit?usp=sharing)
 - [July 24, 2018](https://docs.google.com/document/d/1mselSx1zX_m5vPZopWKr8taV7Qul586fXtyHqI-p9Q8/edit?usp=sharing)
 - [July 17, 2018](https://docs.google.com/document/d/1t1We3HYGG9vLbMgw5TkB47Ss4IkqrmRlYAUCndjKSFU/edit?usp=sharing)
