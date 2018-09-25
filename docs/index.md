@@ -1,7 +1,7 @@
 OSG Production
 ==============
 
-Welcome to OSG Production 
+Welcome to OSG Production
 
 OSG Production is the culmination of many OSG efforts including testing, integration, services, support, operations, hardware, software, and security -- VO's get their jobs run, their data analyzed, and in so doing enable the advancement of research.
 
@@ -15,7 +15,7 @@ If you are having issues with the OSG production grid, please contact us:
 
 - [Open a Ticket](http://support.opensciencegrid.org)
 - Email: <mailto:help@opensciencegrid.org>
-   
+
 
 Weekly Production Meetings
 --------------------------
@@ -29,6 +29,7 @@ Weekly Production Meetings
 
 ### Recent meeting minutes ###
 
+- [September 25, 2018](https://docs.google.com/document/d/1lI_RC1GEm4ejWZn3h9iIf-Zx_3QSMp-9ZGc32y7SuEg/edit?usp=sharing)
 - [September 18, 2018](https://docs.google.com/document/d/1L1U3Md7o520UwJ4sKHU7KOzyDX1-qzbKC-AkIWX4V2c/edit?usp=sharing)
 - [September 11, 2018](https://docs.google.com/document/d/1V7qgVKxqozQBqxGoUkhN9_fddgJaDTqXjcw7s57-JKc/edit?usp=sharing)
 - [September 4, 2018](https://docs.google.com/document/d/15WLy7RDJgwV_OSZeyPHOOAzl7pkklREjxuB89AWv1_k/edit?usp=sharing)
