@@ -29,6 +29,9 @@ Weekly Production Meetings
 
 ### Recent meeting minutes ###
 
+- [January 8, 2019](https://docs.google.com/document/d/1qr0ihzVMSR4CgFli0ZS7bqRxiBj0EXxCmZZmpaars_E/edit?usp=sharing)
+- January 1, 2019 (Canceled)
+- December 25, 2019 (Canceled)
 - [December 18 2018](https://docs.google.com/document/d/1oFb3qrtVwkFhIQCcm3q9hOuP5I6g4xDDH4GmbUFjBbo/edit?usp=sharing)  
 - [December 11, 2018](https://docs.google.com/document/d/1Zx3BceVWCM4QWyzj6auQ5_DritLnt7Etwx66h8zqtrQ/edit?usp=sharing)  
 - [December 4, 2018](https://docs.google.com/document/d/1aRA7Vjpd_E6rNaHqtgSEO9inWFceDEc1NO-qPeIGkh8/edit?usp=sharing)
