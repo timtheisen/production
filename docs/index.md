@@ -29,6 +29,7 @@ Weekly Production Meetings
 
 ### Recent meeting minutes ###
 
+- [April 2, 2019](https://docs.google.com/document/d/1_Gc_WdxB1Oc6lxA3F23GOnyUO_7JHEO5fN5M4W673WY/edit?usp=sharing)
 - [March 26, 2019](https://docs.google.com/document/d/1d0GZMtaaxG_AggOjkBYC-VvVBUuTaLCGnnR4WJBzf-U/edit?usp=sharing)
 - March 19, 2019 (Canceled - [OSG All Hands](https://opensciencegrid.org/all-hands/2019/))
 - [March 12, 2019](https://docs.google.com/document/d/1g9WmMH31HhHQSeO2RBkgMWDkDmHXiVVIfsHHtj0INhA/edit?usp=sharing)
@@ -43,8 +44,8 @@ Weekly Production Meetings
 - [January 8, 2019](https://docs.google.com/document/d/1qr0ihzVMSR4CgFli0ZS7bqRxiBj0EXxCmZZmpaars_E/edit?usp=sharing)
 - January 1, 2019 (Canceled)
 - December 25, 2019 (Canceled)
-- [December 18 2018](https://docs.google.com/document/d/1oFb3qrtVwkFhIQCcm3q9hOuP5I6g4xDDH4GmbUFjBbo/edit?usp=sharing)  
-- [December 11, 2018](https://docs.google.com/document/d/1Zx3BceVWCM4QWyzj6auQ5_DritLnt7Etwx66h8zqtrQ/edit?usp=sharing)  
+- [December 18 2018](https://docs.google.com/document/d/1oFb3qrtVwkFhIQCcm3q9hOuP5I6g4xDDH4GmbUFjBbo/edit?usp=sharing)
+- [December 11, 2018](https://docs.google.com/document/d/1Zx3BceVWCM4QWyzj6auQ5_DritLnt7Etwx66h8zqtrQ/edit?usp=sharing)
 - [December 4, 2018](https://docs.google.com/document/d/1aRA7Vjpd_E6rNaHqtgSEO9inWFceDEc1NO-qPeIGkh8/edit?usp=sharing)
 - [November 27, 2018](https://docs.google.com/document/d/1YRX3PWUtbOUCGp3lQkriWQ-1VxGAAVZgqXt0nFoe2-Y/edit?usp=sharing)
 - [November 20, 2018](https://docs.google.com/document/d/1DdhxRDVF_uNzgQ8JzQGiRotG_VcLwHMApQFRA_HohVA/edit?usp=sharing)
